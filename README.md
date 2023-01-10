@@ -4,6 +4,8 @@
    
     let webStack = [MongoDB, Express, NodeJS, ReactJS]
     let specialisations = [web_developement, mobile_developement, UI/UX_Design]
+    let instagram = "@outtathebox"
+    let twitter = "@KmarcinDev"
     const current_project = "simple_users_api"
         webStack.forEach(el => {
           console.log(`I'm always ready to become even better at ${el}!`);
