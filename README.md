@@ -45,7 +45,7 @@
 <br></br>
 <h1>SYSTEMS I USE</h2>
 <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/zorin" />
-<img align="left" height="50" width="50" rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
           
 
 
