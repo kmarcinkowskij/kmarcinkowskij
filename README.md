@@ -1,10 +1,8 @@
-```about_me.js
+```about_me.ts
     const express = require(express)
     const router = express.router()
-   
-    
-    
-    let instagram = "@outtathebox"
+
+    let instagram: String = "@outtathebox"
     let twitter = "@KmarcinDev"
     
     let webStack = [MongoDB, Express, NodeJS, ReactJS]
