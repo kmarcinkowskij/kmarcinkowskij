@@ -20,6 +20,33 @@
     }
 })
     
-    alert("Though right now I spend most of my time studying backend developement")
+    alert("Although right now I spend most of my time studying backend developement")
 
 ```
+
+<h1>MY STACK</h1>
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<br></br>
+<br></br>
+<h2>TOOLS I USE</h2>
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" height="100" width="100" src="https://cdn.simpleicons.org/insomnia" />
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
+<br></br>
+<br></br>
+<h1>SYSTEMS I USE</h2>
+<img align="left" height="100" width="100" src="https://cdn.simpleicons.org/zorin" />
+<img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+          
+
+
+          
+                    
+          
+          
+                                                                   
