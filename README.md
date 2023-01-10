@@ -40,7 +40,9 @@
 <img align="left" height="50" width="50" src="https://cdn.simpleicons.org/insomnia" />
 <img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-          
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" height="50" width="50" src="https://cdn.simpleicons.org/adobecreativecloud" />
+<img align="left" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <br></br>
 <br></br>
 <h1>SYSTEMS I USE</h2>
