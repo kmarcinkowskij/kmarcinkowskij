@@ -3,7 +3,7 @@
     const router = express.router()
 
     let instagram: String = "@outtathebox"
-    let twitter = "@KmarcinDev"
+    let twitter: String = "@KmarcinDev"
     
     let webStack = [MongoDB, Express, NodeJS, ReactJS]
     let specialisations = [web_developement, mobile_developement, UI_UX_Design]
