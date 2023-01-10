@@ -2,10 +2,14 @@
     const express = require(express)
     const router = express.router()
    
-    let webStack = [MongoDB, Express, NodeJS, ReactJS]
-    let specialisations = [web_developement, mobile_developement, UI/UX_Design]
+    
+    
     let instagram = "@outtathebox"
     let twitter = "@KmarcinDev"
+    
+    let webStack = [MongoDB, Express, NodeJS, ReactJS]
+    let specialisations = [web_developement, mobile_developement, UI_UX_Design]
+    
     const current_project = "simple_users_api"
         webStack.forEach(el => {
           console.log(`I'm always ready to become even better at ${el}!`);
