@@ -16,7 +16,7 @@
     try {
         res.json({
           "stack": "MERN"
-          "favourite editor": "vscode"
+          "favourite editors": "Jetbrains IDEs"
           
         })
     } catch (err){
